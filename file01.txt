@@ -10,3 +10,4 @@ locally. I want to see the changes in branch1 also
 
 
 ** I want to learn about conflict -> working on file 01 from master branch locally.
+Changing this file from master branch remotely
