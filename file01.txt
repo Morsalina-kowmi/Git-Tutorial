@@ -7,3 +7,6 @@ I have made some changes in this file and I am excited to push this code to web
 
 Now as master branch is synced with branch1, I am changing in master branch 
 locally. I want to see the changes in branch1 also
+
+
+** I want to learn about conflict -> working on file 01 from master branch locally.
