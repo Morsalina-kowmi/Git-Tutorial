@@ -4,4 +4,8 @@ File 02 is updated locally and a new commit was added
 
 file 02 is updated in branch1 locally 
 
+
 commit 15: branch 1, locally
+
+this file is being updated locally from branch 2 --> commit 11
+
